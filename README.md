@@ -4,7 +4,7 @@ This repository contain the scripts generated to evaluate diferences between ref
  ```
 +-- genomic_cotton
 |	+--bin/
-|               +--1_fastqc_samples.sh
+|               +--1_fastqc_sample.sh
 |               +--2_trimming.sh
 |               +--3_mapping.sh
 |               +--4_convert_sam_to_bam.sh
