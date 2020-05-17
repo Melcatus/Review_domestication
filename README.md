@@ -7,12 +7,10 @@ This repository contain the scripts generated to evaluate diferences between ref
 |               +--1_fastqc_sample.sh
 |               +--2_trimming.sh
 |               +--3_mapping.sh
-|               +--4_convert_sam_to_bam.sh
-|               +--5_sort_sequences.sh
-|               +--6_convert_bam_fasta.sh
-|               +--7_quality_mapping.sh
-|               +--8_find_variants.sh
-|               +--9_annotation.sh
+|               +--4_sort_sequenes.sh
+|               +--5_quality_mapping.sh
+|               +--6_find_variants.sh 
+|               +--7_annotation.sh
 |	+--data/
 |               +-- README_data.md
 |	+--meta/
