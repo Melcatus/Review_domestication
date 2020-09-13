@@ -1,5 +1,6 @@
 #!/bin/bash
-#This script do the quality analysis of sequencing with fastqc
+# This script do the quality of sequencing with fastqc
+# Install Fastqc_v0.11.8 
 
 # Create output directory
 mkdir ../data/soja/fastqcs 
